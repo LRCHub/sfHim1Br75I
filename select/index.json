@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "体温",
+  "base_artist": "水槽",
+  "createdAt": "2026-02-08T10:26:22.423026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "体温",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_体温_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "体温",
+      "artist": "The GazettE",
+      "has_synced": false,
+      "path": "select/02_体温_The_GazettE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "体温",
+      "artist": "hitomi",
+      "has_synced": false,
+      "path": "select/03_体温_hitomi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "体温-I'll be by my side forever-",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/04_体温-I'll_be_by_my_side_forever-_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "体温",
+      "artist": "hitomi",
+      "has_synced": true,
+      "path": "select/05_体温_hitomi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "体温",
+      "artist": "Shuta Sueyoshi",
+      "has_synced": true,
+      "path": "select/06_体温_Shuta_Sueyoshi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "体温",
+      "artist": "水槽",
+      "has_synced": true,
+      "path": "select/07_体温_水槽.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "体温",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/08_体温_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "体温(ALL TIME BEST ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/09_体温(ALL_TIME_BEST_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "体温 - TAION",
+      "artist": "Shuta Sueyoshi",
+      "has_synced": true,
+      "path": "select/10_体温_-_TAION_Shuta_Sueyoshi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "体温",
+      "artist": "周蕙",
+      "has_synced": false,
+      "path": "select/11_体温_周蕙.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "体温。",
+      "artist": "ダウト",
+      "has_synced": true,
+      "path": "select/12_体温。_ダウト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "体温",
+      "artist": "水槽",
+      "has_synced": false,
+      "path": "select/pl_01_体温_水槽.txt"
+    }
+  ]
+}
